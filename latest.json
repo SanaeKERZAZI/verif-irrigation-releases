@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "Ajout du rôle Superviseur avec accès global en lecture seule au panel administrateur.",
-  "pub_date": "2026-09-16T08:00:00Z",
+  "version": "1.2.4",
+  "notes": "Correction du secteur Z0 (322) en Z0 (324) et ajustements de la gestion des utilisateurs.",
+  "pub_date": "2026-09-23T20:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd0c5MUM4UldYTGF2Yzh4Qk56SEl0YzRPTkdUbzFlU1N5RE9icjJjbUlOVE15K0RjaDBGTDRGbDVBTitUK3NhbXk3UGErdU50ZXFLSXRnSXVSSC9JdXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NTUxMDI4CWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMS4yLjNfeDY0X2ZyLUZSLm1zaQptZFVJSVNaN3NiTUhTbTdGRGhyWWtxTlUrUUFYS3Vja3E3Z09ta1orSEl3ZlgwTnB5YVdvTWxCNGt6ZlNoTjJFcHNFazdFNHBHT2xQZEg0SWJ6ZWdCQT09Cg==",
-      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.3/Verif.Irrigation_1.2.3_x64_fr-FR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd0RjOVlWYUJvUjkvOThnTktKSVVsVmRMakM5cHFhdGZLV3VYdWdkK201NTAyNVFIQnNpVjM2OGZjb3VtVWFsT1dLOXZGS1Nid0xuciszOWhzNmpscUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk1MDUzCWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMS4yLjRfeDY0X2ZyLUZSLm1zaQpHQ2RGYXpJWElXWlNsMVdtamptU3psVy9KdFZmNnJwTlNHWFpSdWtWa0JuSXhPTllOU1NOOW8wcUtDQmdBTjFBMmJJcU9sU28xYkJrTmxhNVozbHBEUT09Cg==",
+      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.4/Verif.Irrigation_1.2.4_x64_fr-FR.msi"
     }
   }
 }

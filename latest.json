@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "Correction du secteur Z0 (322) en Z0 (324) et ajustements de la gestion des utilisateurs.",
-  "pub_date": "2026-09-23T20:30:00Z",
+  "version": "2.0.0",
+  "notes": "Vérif'Irrigation — Version 2.0.0",
+  "pub_date": "2026-10-01T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd0RjOVlWYUJvUjkvOThnTktKSVVsVmRMakM5cHFhdGZLV3VYdWdkK201NTAyNVFIQnNpVjM2OGZjb3VtVWFsT1dLOXZGS1Nid0xuciszOWhzNmpscUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTk1MDUzCWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMS4yLjRfeDY0X2ZyLUZSLm1zaQpHQ2RGYXpJWElXWlNsMVdtamptU3psVy9KdFZmNnJwTlNHWFpSdWtWa0JuSXhPTllOU1NOOW8wcUtDQmdBTjFBMmJJcU9sU28xYkJrTmxhNVozbHBEUT09Cg==",
-      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.4/Verif.Irrigation_1.2.4_x64_fr-FR.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd0ZlcXliVEJHekRIQkE1UXVhWW0xdHJJek0rcWZad1d0dG93R2tRVHZNQmt5L0diSjh0Z3R0L2Z6VWRSVUdOVzlObldsSDVrd3UxdHRqazByMjFnVHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODk1MDU2CWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMi4wLjBfeDY0X2ZyLUZSLm1zaQp2c0tWekVzOFdzRU9kZVBQSnVnNjJkbExnZXJMWTM3OGUrdmFxN0xsdXJBR0ZCOVdpRlJ4V0RtazRTQ2lkbnd3a1lQNWJkUnlESzdHQks3Y1dieGNDZz09Cg==",
+      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v2.0.0/V%C3%A9rif%27Irrigation_2.0.0_x64_fr-FR.msi"
     }
   }
 }

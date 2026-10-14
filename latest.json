@@ -1,15 +1,11 @@
 {
-  "version": "1.2.6",
-  "notes": "Optimisation du chargement des données, fiabilisation des statistiques et des exports Excel.",
-  "pub_date": "2026-10-14T00:00:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd1BiUXJ1Y2xwTVB0cVo3dUtPdHc5ZVB0Ykh6NDlxY3BoSXkxZ0pwMUdxMnArRy9WRW90ek51MUh0VzlqeHZKMkptZSt2eWRhZ1BSYTVOSFVMSm1yTXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDE4NDMxCWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMS4yLjZfeDY0X2ZyLUZSLm1zaQoxdG1qZkZ6V3hvUElYUUpEZ2h0UE9Qa0NrYnFZaDYzdmFTSlFJWDJIOXliR28xWkFGc2VlNnJZTm5kdWJ1VTJNWDJSZ3ZKWVVGUS9CRUo2NnpPNk9DUT09Cg==",
-      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.6/Verif.Irrigation_1.2.6_x64_fr-FR.msi"
-    },
-    "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd091aDhJSHZOOS9vSUZBRGw2cW9XZFpnSE9SeGdiZ2NhdldkNXI2QUE2dzJCdHJEQVh0VWVNOWlDMjRVOUdjd0d1S2JpOU9VdllZNEFGbCtDekk1U3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzI3MTQ3CWZpbGU6VsODwqlyaWYnSXJyaWdhdGlvbl8xLjIuNV94ODZfZnItRlIubXNpCm5IMUg0cE1keEZZK2F0MTJRemo3YlNzVkJ5QWc1U1pnLzhyRDZEM1VlVXZiRXgxaml5VkZmL01OR0szVmxPeGdkZTRxSzdFNWdLNHZLeUJZdkJ0aEJ3PT0K",
-      "url": "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.5/Verif.Irrigation_1.2.5_x86_fr-FR.msi"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeE9FZURtOVZHd0o0SlhsM0xkbk05K0VNQjJ3WkY5T3BsM2lQQmw3dzlITzhGSW1ZRVh0S0JUM1cvdlJ6dDFwcVhCUmUwZmZicUVHN2s0OXF5dUlycjljVDV6VEZjc2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDIxODA2CWZpbGU6VsOpcmlmJ0lycmlnYXRpb25fMS4yLjdfeDY0X2ZyLUZSLm1zaQpIWW4rM1pJNlVSMGpSaEljL015UmhlM1V1emQ0ejBVUEJiVncrTVc5Z2pEa1pGNVR5ZkRVZkViUmZlREVZRVhxakxoVGlBeVRoWStYb0FyTW5hNXVCQT09Cg==",
+                                             "url":  "https://github.com/SanaeKERZAZI/verif-irrigation-releases/releases/download/v1.2.7/Verif.Irrigation_1.2.7_x64_fr-FR.msi"
+                                         }
+                  },
+    "pub_date":  "2026-10-14T23:00:00Z",
+    "version":  "1.2.7",
+    "notes":  "Correction des statistiques des anomalies et optimisation Methode B"
 }
